@@ -3,13 +3,13 @@
   "icon": "icon.png",
   "commands": [
     {
-      "name": "my-command",
+      "name": "Create Symbol",
       "identifier": "sketch-service-bluprint-plugin.my-command-identifier",
-      "script": "./my-command.js"
+      "script": "./create-symbol.js"
     }
   ],
   "menu": {
-    "title": "sketch-service-bluprint-plugin",
+    "title": "Service Bluprint",
     "items": [
       "sketch-service-bluprint-plugin.my-command-identifier"
     ]
